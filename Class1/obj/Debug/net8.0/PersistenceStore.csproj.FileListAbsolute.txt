@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\PersistenceStore\Class1\bin\Debug\net8.0\PersistenceStore.deps.json
+C:\Users\student\source\repos\PersistenceStore\Class1\bin\Debug\net8.0\PersistenceStore.dll
+C:\Users\student\source\repos\PersistenceStore\Class1\bin\Debug\net8.0\PersistenceStore.pdb
+C:\Users\student\source\repos\PersistenceStore\Class1\obj\Debug\net8.0\PersistenceStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\PersistenceStore\Class1\obj\Debug\net8.0\PersistenceStore.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\PersistenceStore\Class1\obj\Debug\net8.0\PersistenceStore.AssemblyInfo.cs
+C:\Users\student\source\repos\PersistenceStore\Class1\obj\Debug\net8.0\PersistenceStore.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\PersistenceStore\Class1\obj\Debug\net8.0\PersistenceStore.dll
+C:\Users\student\source\repos\PersistenceStore\Class1\obj\Debug\net8.0\refint\PersistenceStore.dll
+C:\Users\student\source\repos\PersistenceStore\Class1\obj\Debug\net8.0\PersistenceStore.pdb
+C:\Users\student\source\repos\PersistenceStore\Class1\obj\Debug\net8.0\ref\PersistenceStore.dll
